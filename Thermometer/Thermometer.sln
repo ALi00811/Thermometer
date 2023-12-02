@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thermometer_APP", "RDAC_APP\Thermometer_APP.csproj", "{A2D049F5-5EAF-46A3-9774-E45CE9E8177E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{75F93C82-8F66-44CF-BE01-7415CEBAB4E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilityLayer", "UtilityLayer\UtilityLayer.csproj", "{9E76F85A-E85F-45B3-8479-6A34509750D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2D049F5-5EAF-46A3-9774-E45CE9E8177E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2D049F5-5EAF-46A3-9774-E45CE9E8177E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2D049F5-5EAF-46A3-9774-E45CE9E8177E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2D049F5-5EAF-46A3-9774-E45CE9E8177E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75F93C82-8F66-44CF-BE01-7415CEBAB4E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75F93C82-8F66-44CF-BE01-7415CEBAB4E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75F93C82-8F66-44CF-BE01-7415CEBAB4E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75F93C82-8F66-44CF-BE01-7415CEBAB4E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E76F85A-E85F-45B3-8479-6A34509750D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E76F85A-E85F-45B3-8479-6A34509750D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E76F85A-E85F-45B3-8479-6A34509750D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E76F85A-E85F-45B3-8479-6A34509750D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
